@@ -3,7 +3,7 @@
 **No Copyright collection of wallpapers for linux**
 
 *If you find an image that you own the copyright for, accidentally uploaded then
-please ![email me](zim@onionmail.org) and I will take it down*
+please [email me](zim@onionmail.org) and I will take it down*
 
 ![preview](minimal_wall/archneon.png)
 ![preview](minimal_wall/astronaut-star-war-4k-q7.jpg)
