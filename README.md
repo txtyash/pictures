@@ -1,9 +1,8 @@
-# Wallpaper Collection
+<h2 align='center'>Wallpaper Collection</h2>
 
-**No Copyright collection of wallpapers for linux**
+<p align='center'><strong>No Copyright collection of wallpapers for linux</strong></p>
 
-*If you find an image that you own the copyright for, accidentally uploaded then
-please email me at 'zim@onionmail.org' and I will take it down*
+<p align='center'><em>If you find an image that you own the copyright for, accidentally uploaded then please email me at zim@onionmail.org and I will take it down</em></p>
 
 ![preview](minimal_wall/archneon.png)
 ![preview](minimal_wall/astronaut-star-war-4k-q7.jpg)
@@ -849,4 +848,3 @@ please email me at 'zim@onionmail.org' and I will take it down*
 ![preview](wallpapers/winter_in_sichuan_hu_chen.jpg)
 ![preview](wallpapers/yellow_flowers_martin_adams.jpg)
 ![preview](wallpapers/yosemite-lowpoly.jpg)
-
